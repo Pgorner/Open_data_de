@@ -6,7 +6,7 @@
 #    By: pgorner <pgorner@student.42heilbronn.de    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/03/04 12:06:05 by pgorner           #+#    #+#              #
-#    Updated: 2023/03/04 12:28:53 by pgorner          ###   ########.fr        #
+#    Updated: 2023/03/04 12:41:33 by pgorner          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -41,3 +41,9 @@ https://www.h3nv.de/fahrplaene
 https://www.geoportal-bw.de/#/
 https://public.opendatasoft.com/explore/dataset/covid-19-germany-landkreise/table/
 https://www.gisserver.de/heilbronn/
+
+HN_pdf_lists
+https://www.mein-heilbronn.de/fileadmin/data/PDF-Dokumente/Liste_aller_Heilbronner_Notinseln__nach_Geschaeftsnamen_sortiert_.pdf
+landesjagdverband.de/fileadmin/rootpages/480/Verwahrstellen_in_BW.pdf
+https://www.riserid.eu/data/user_upload/downloads/info-pdf.s/Diverses/Liste-Amtlicher-Gemeindeschluessel-AGS-2015.pdf
+https://www.heilbronn.de/fileadmin/daten/stadtheilbronn/formulare/leben/heilbronn_entdecken/stadtteile/Einwohnerstatistiken_Heilbronn_und_Stadtteile.pdf
